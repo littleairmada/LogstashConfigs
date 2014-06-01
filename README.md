@@ -27,3 +27,10 @@ Software
 - Elasticsearch 1.2.0
 - Logstash 1.4.1
 - Java 7
+
+References
+===========
+
+- @hiddenillusion - Got me started on the idea.
+- Good Blog Posts and some configs here: http://www.505forensics.com
+
