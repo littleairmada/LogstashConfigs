@@ -13,17 +13,17 @@ Fly-away/Go-kit Configuration
 
 Hardware
 
-Intel NUC mini-PC
-I5 Dual core
-16GB of memory
-240GB SSD drive
-500GB SSD USB 3.0 External HDD (NUC has 4 USB 3.0 ports.)
-Qty 2 - 64GB USB 3.0 Drives
+- Intel NUC mini-PC
+- I5 Dual core
+- 16GB of memory
+- 240GB SSD drive
+- 500GB SSD USB 3.0 External HDD (NUC has 4 USB 3.0 ports.)
+- Qty 2 - 64GB USB 3.0 Drives
 
 Software
 
-Ubuntu 12.04
-Kibana 3.1.0
-Elasticsearch 1.2.0
-Logstash 1.4.1
-Java 7
+- Ubuntu 12.04
+- Kibana 3.1.0
+- Elasticsearch 1.2.0
+- Logstash 1.4.1
+- Java 7
