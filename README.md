@@ -8,6 +8,8 @@ These are some different log parsing configs i've used to parse logs on various 
 - Microsoft IIS
 - Checkpoint Firewall
 
+Hit me up if you get any errors or if you have suggestions for making them better/more effecient. patrick[dot]olsen@sysforensics[dot]org, or twitter [at]patrickrolsen.
+
 Fly-away/Go-kit Configuration
 ==============================
 
